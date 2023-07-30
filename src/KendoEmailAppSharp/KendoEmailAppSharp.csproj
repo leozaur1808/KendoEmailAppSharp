@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0</TargetFrameworks>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>KendoEmailAppSharp</AssemblyName>
+    <RootNamespace>KendoEmailAppSharp</RootNamespace>
+    <PackageId>KendoEmailAppSharp</PackageId>
+    <Version>0.0.3</Version>
+    <Authors>leozaur1808</Authors>
+    <Description>A .NET Core library for working with the Kendo email app API.</Description>
+    <PackageProjectUrl>https://github.com/leozaur1808/KendoEmailAppSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/leozaur1808/KendoEmailAppSharp.git</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+
+
+</Project>
