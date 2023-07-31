@@ -1,7 +1,5 @@
 using System.Text.Json;
 using System.Net.Http.Headers;
-using System.Text;
-using System.ComponentModel;
 
 namespace KendoEmailAppSharp.Utils;
 
