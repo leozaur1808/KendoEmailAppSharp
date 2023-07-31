@@ -10,7 +10,7 @@ dotnet add package KendoEmailAppSharp
 ### Usage
 To use **KendoEmailAppSharp**, you will need to create an instance of the KendoEmailClient class and call its methods to interact with the Kendo email API.
 
-Here's an example of how to retrieve email information for a specific email:
+Here's an example of how to retrieve leads information for a specific domain:
 
 ```csharp
 using KendoEmailAppSharp;
