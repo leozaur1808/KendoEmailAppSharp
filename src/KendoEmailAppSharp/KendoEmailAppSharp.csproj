@@ -8,7 +8,7 @@
     <AssemblyName>KendoEmailAppSharp</AssemblyName>
     <RootNamespace>KendoEmailAppSharp</RootNamespace>
     <PackageId>KendoEmailAppSharp</PackageId>
-    <Version>0.0.3</Version>
+    <Version>0.0.4</Version>
     <Authors>leozaur1808</Authors>
     <Description>A .NET Core library for working with the Kendo email app API.</Description>
     <PackageProjectUrl>https://github.com/leozaur1808/KendoEmailAppSharp</PackageProjectUrl>
